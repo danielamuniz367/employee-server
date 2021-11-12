@@ -1,19 +1,223 @@
 {
-  "posts": [
+  "employees": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": 3,
+      "department": "Safety",
+      "email": "sheaysman2@rakuten.co.jp",
+      "first_name": "Sonnie",
+      "last_name": "Heaysman",
+      "location": "Berlin",
+      "phone": "202-921-2902",
+      "title": "Safety Technician I",
+      "picture": "https://randomuser.me/api/portraits/men/67.jpg"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "department": "Sales",
+      "email": "jbeggs3@youku.com",
+      "first_name": "Johnath",
+      "last_name": "Beggs",
+      "location": "San Francisco",
+      "phone": "949-170-1840",
+      "title": "Marketing Manager",
+      "picture": "https://randomuser.me/api/portraits/men/21.jpg"
+    },
+    {
+      "id": 5,
+      "department": "Human Resources",
+      "email": "hlopez4@stanford.edu",
+      "first_name": "Hillier",
+      "last_name": "Lopez",
+      "location": "New York City",
+      "phone": "514-432-3547",
+      "title": "Nurse",
+      "picture": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "id": 6,
+      "department": "Business Development",
+      "email": "wgerbel5@hexun.com",
+      "first_name": "Wynne",
+      "last_name": "Gerbel",
+      "location": "San Francisco",
+      "phone": "740-429-0798",
+      "title": "Legal Assistant",
+      "picture": "https://randomuser.me/api/portraits/women/50.jpg"
+    },
+    {
+      "id": 7,
+      "department": "Training",
+      "email": "kbottlestone6@vinaora.com",
+      "first_name": "Kimberli",
+      "last_name": "Bottlestone",
+      "location": "Denver",
+      "phone": "285-790-0743",
+      "title": "Developer I",
+      "picture": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    {
+      "id": 8,
+      "department": "Services",
+      "email": "ecolgan7@vistaprint.com",
+      "first_name": "Eldin",
+      "last_name": "Colgan",
+      "location": "Seattle",
+      "phone": "289-217-5061",
+      "title": "GIS Technical Architect",
+      "picture": null
+    },
+    {
+      "id": 9,
+      "department": "Product Management",
+      "email": "mperrone8@ucsd.edu",
+      "first_name": "Marti",
+      "last_name": "Perrone",
+      "location": "Berlin",
+      "phone": "750-517-4806",
+      "title": "Quality Engineer",
+      "picture": "https://randomuser.me/api/portraits/women/82.jpg"
+    },
+    {
+      "id": 10,
+      "department": "Human Resources",
+      "email": "owellbeloved9@youtu.be",
+      "first_name": "Oralla",
+      "last_name": "Wellbeloved",
+      "location": "Austin",
+      "phone": "619-362-9302",
+      "title": "Sales Associate",
+      "picture": "https://randomuser.me/api/portraits/women/6.jpg"
+    },
+    {
+      "id": 11,
+      "department": "Accounting",
+      "email": "agabitisa@360.cn",
+      "first_name": "Augustine",
+      "last_name": "Gabitis",
+      "location": "Denver",
+      "phone": "486-668-8142",
+      "title": "Senior Financial Analyst",
+      "picture": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    {
+      "id": 12,
+      "department": "Business Development",
+      "email": "larmisteadb@clickbank.net",
+      "first_name": "Lonnie",
+      "last_name": "Armistead",
+      "location": "Berlin",
+      "phone": "330-566-0601",
+      "title": "Structural Analysis Engineer",
+      "picture": "https://randomuser.me/api/portraits/women/32.jpg"
+    },
+    {
+      "id": 13,
+      "department": "Services",
+      "email": "esimanekc@google.ca",
+      "first_name": "Elisha",
+      "last_name": "Simanek",
+      "location": "Berlin",
+      "phone": "493-222-5721",
+      "title": "Structural Analysis Engineer",
+      "picture": "https://randomuser.me/api/portraits/women/14.jpg"
+    },
+    {
+      "id": 14,
+      "department": "Marketing",
+      "email": "bankrettd@alibaba.com",
+      "first_name": "Brynna",
+      "last_name": "Ankrett",
+      "location": "San Francisco",
+      "phone": "950-610-6813",
+      "title": "Associate Professor",
+      "picture": "https://www.thebalancecareers.com/thmb/o_ZDqli3yLrEyzW-C8hMtZ_Mz6k=/300x200/filters:no_upscale():max_bytes(150000):strip_icc():saturation(0.2):brightness(10):contrast(5):format(webp)/staying-in-touch-with-the-office-from-home-875247318-b9551e4199994d1e81266cbe83aeec67.jpg"
+    },
+    {
+      "id": 15,
+      "department": "Human Resources",
+      "email": "jkraute@webs.com",
+      "first_name": "Jenni",
+      "last_name": "Kraut",
+      "location": "Denver",
+      "phone": "685-284-2310",
+      "title": "Social Worker",
+      "picture": null
+    },
+    {
+      "id": 16,
+      "department": "Research and Development",
+      "email": "dethertonf@mediafire.com",
+      "first_name": "Deloris",
+      "last_name": "Etherton",
+      "location": "Berlin",
+      "phone": "715-371-9428",
+      "title": "Director of Sales",
+      "picture": null
+    },
+    {
+      "id": 17,
+      "department": "Services",
+      "email": "oavrashing@va.gov",
+      "first_name": "Odetta",
+      "last_name": "Avrashin",
+      "location": "Austin",
+      "phone": "334-937-8371",
+      "title": "Financial Advisor",
+      "picture": null
+    },
+    {
+      "id": 18,
+      "department": "Support",
+      "email": "cclaigeh@fc2.com",
+      "first_name": "Cynthy",
+      "last_name": "Claige",
+      "location": "Austin",
+      "phone": "930-119-5193",
+      "title": "Account Representative III",
+      "picture": null
+    },
+    {
+      "id": 19,
+      "department": "Services",
+      "email": "rgoeringi@time.com",
+      "first_name": "Rodrique",
+      "last_name": "Goering",
+      "location": "San Francisco",
+      "phone": "437-941-0642",
+      "title": "Staff Scientist",
+      "picture": "https://randomuser.me/api/portraits/men/97.jpg"
+    },
+    {
+      "id": 20,
+      "department": "Services",
+      "email": "cwardej@nps.gov",
+      "first_name": "Clea",
+      "last_name": "Warde",
+      "location": "New York City",
+      "phone": "191-233-0757",
+      "title": "Assistant Media Planner",
+      "picture": null
+    },
+    {
+      "department": "Product",
+      "email": "danielamuniz@email.com",
+      "first_name": "Daniela",
+      "last_name": "Muniz",
+      "location": "New York City",
+      "phone": "512-785-4810",
+      "title": "Software Engineer",
+      "id": 21,
+      "picture": "https://randomuser.me/api/portraits/women/91.jpg"
+    },
+    {
+      "first_name": "Ryan",
+      "last_name": "Ramadar",
+      "department": "Politics",
+      "title": "Political Consultant",
+      "phone": "123-456-7890",
+      "email": "rramadar@fakemail.com",
+      "location": "New York City",
+      "id": 22
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
